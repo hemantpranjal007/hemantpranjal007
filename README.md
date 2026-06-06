@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CSE Undergraduate (2029) at SMVIT Bengaluru<br><br>💻 Passionate about Python Development, Data Analytics, and Generative AI<br><br>🚀 Built a Resume Analyzer platform using HTML, CSS, and JavaScript<br><br>🏆 Shortlisted among the Top 8 teams in Bengaluru for eDC IIT Delhi's Blueprint 6.0 (DeepTech & AI Track)<br><br>📊 Certified in Python, Data Analytics, Business Analysis, AI Literacy, and Generative AI by Microsoft, Cisco, IBM, Deloitte Australia, HCL GUVI, and LinkedIn Learning<br><br>🌱 Currently learning DSA, Git & GitHub, Data Analytics, and AI applications<br><br>📫 Reach me at: hemantpranjaldev@gmail.com
+🎓 CSE Undergraduate (2029) at SMVIT Bengaluru<br><br>💻 Passionate about Machine Learning, Data Analytics, and Web Development<br><br>🚀 Built a Resume Analyzer platform using HTML, CSS, and JavaScript<br><br>🏆 Shortlisted among the Top 8 teams in Bengaluru for eDC IIT Delhi's Blueprint 6.0 (DeepTech & AI Track)<br><br>📊 Certified in Python, Data Analytics, Business Analysis, AI Literacy, and Generative AI by Microsoft, Cisco, IBM, Deloitte Australia, HCL GUVI, and LinkedIn Learning<br><br>🌱 Currently learning DSA, Git & GitHub, Data Analytics, and AI operations<br><br>📫 Reach me at: hemantpranjaldev@gmail.com
 
 
 ## 🌐 Socials:
